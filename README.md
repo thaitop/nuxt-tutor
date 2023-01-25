@@ -1,4 +1,4 @@
-# tutor-nuxt
+# tutor-nuxt Thaitop
 
 > My praiseworthy Nuxt.js project
 
