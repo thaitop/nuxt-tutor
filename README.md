@@ -1,6 +1,6 @@
 # tutor-nuxt Thaitop
 
-> My praiseworthy Nuxt.js project
+> My praiseworthy Nuxt.js project by:Thaitop
 
 ## Build Setup
 
